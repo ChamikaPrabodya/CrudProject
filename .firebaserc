@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular9crud2-16877": {
+      "hosting": {
+        "crudp": [
+          "angular9crud2-16877"
+        ]
+      }
+    }
+  }
+}
